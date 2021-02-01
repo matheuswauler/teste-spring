@@ -1,0 +1,9 @@
+com/testespring/utils/OperationsHelper.class
+com/testespring/controller/NomineesController.class
+com/testespring/model/Nominee.class
+com/testespring/initializer/Initiate.class
+com/testespring/repository/ProducerRepository.class
+com/testespring/controller/WinnersController.class
+com/testespring/model/Producer.class
+com/testespring/repository/NomineeRepository.class
+com/testespring/TesteSpringApplication.class
